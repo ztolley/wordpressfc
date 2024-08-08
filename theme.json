@@ -5,6 +5,18 @@
 			"defaultDuotone": false,
 			"defaultGradients": false,
 			"defaultPalette": false,
+			"gradients": [
+				{
+					"gradient": "linear-gradient(135deg, #049FD7 0%, #02104D 100%)",
+					"name": "Slanted light blue to dark blue",
+					"slug": "gradient-1"
+				},
+				{
+					"gradient": "linear-gradient(to right, #02104D 0%, #049FD7 100%)",
+					"name": "Horizontal dark blue to light blue",
+					"slug": "gradient-2"
+				}
+			],
 			"palette": [
 				{
 					"color": "#02104D",
@@ -54,7 +66,7 @@
 			]
 		},
 		"layout": {
-			"contentSize": "768px",
+			"contentSize": "780px",
 			"wideSize": "1280px"
 		},
 		"spacing": {
