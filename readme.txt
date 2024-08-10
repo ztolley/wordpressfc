@@ -16,7 +16,11 @@ A theme designed for small & medium Football (Soccer) clubs to publish who they 
 == Changelog ==
 
 = 0.0.1 =
-* Workd in progress
+* Work in progress
+
+= 0.1.0 =
+* First draft release
+* Design based around Hartland Girls Academy based on fixed navigation, colours and content
 
 
 == Copyright ==
